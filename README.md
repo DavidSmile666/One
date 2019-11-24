@@ -5,4 +5,5 @@
 Test1 Test2 Test1
 blue1 blue2 blue1
 building1 building2
-Qiqi2 Qiqi2
+<<<<<<< HEAD
+Qiqi1 Qiqi1
